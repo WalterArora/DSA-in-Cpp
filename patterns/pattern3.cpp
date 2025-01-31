@@ -12,7 +12,7 @@ void print3(int n){
 }
 
 int main(){
-    int n;
+    int n; 
     cin>>n;
     print3(n);
 }
