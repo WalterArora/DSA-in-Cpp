@@ -11,7 +11,11 @@ void print(int n){
         cout<<endl;
     }
 }
-
+int main(){
+    int n;
+    cin>>n;
+    print(n);
+    }
 int main(){
     int n;
     cin>>n;
